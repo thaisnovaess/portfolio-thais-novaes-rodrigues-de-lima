@@ -1,3 +1,5 @@
+SM1 - A Corrida do Prompt  
+
 🚀 Desafio de Engenharia de Prompt: O Ciclo de 5 Iterações
 Este repositório contém a documentação da atividade prática de Engenharia de Instrução (Prompt Engineering). O objetivo foi dominar a comunicação com modelos de linguagem (LLMs) para obter resultados de alta precisão com o menor número possível de tentativas.
 
