@@ -3,7 +3,7 @@
 
 ---
 
-### 📫 Contato & Redes Sociais
+## 📫 Contato & Redes Sociais
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thaisnovaesr)
 [![E-mail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:thaisnovaes.ar@gmail.com)
@@ -11,94 +11,44 @@
 
 ---
 
-### 👨‍💻 Sobre
+## 👨‍💻 Sobre
 
-Atualmente cursando o **2º semestre de Ciência da Computação** na **UNICID**. Sou apaixonada por resolver problemas através da tecnologia e possuo foco em **Desenvolvimento e Machine Learning**.
+Atualmente cursando o **2º semestre de Ciência da Computação** na **UNICID**. Foco em **Desenvolvimento de Software e Inteligência Artificial**, com experiência prática em projetos acadêmicos e de pesquisa.
 
 - **Linguagens:** Java, Python, JavaScript, HTML, CSS  
 - **Tecnologias:** Power BI, OpenCV, MediaPipe, AWS, Google Cloud  
 - **Soft Skills:** Trabalho em equipe, comunicação assertiva, pensamento crítico  
-- **Experiência:** Monitora de TI e pesquisadora em Iniciação Científica com projeto de reconhecimento de gestos em LIBRAS usando visão computacional e machine learning. Atualmente estagiando na área de tecnologia da ESPM (Escola Superior de Propaganda e Marketing).
+- **Experiência:** Monitoria de TI e Iniciação Científica com reconhecimento de gestos em LIBRAS usando visão computacional e machine learning. Estágio na área de tecnologia da ESPM.
 
 ---
 
-### 🛠 Tecnologias
+## 🛠 Tecnologias
 
-#### 💻 Linguagens
+### 💻 Linguagens
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
-#### 🗄️ Banco de Dados
+### 🗄️ Banco de Dados
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 
-#### 🤖 IA & Data Science
+### 🤖 IA & Data Science
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
 ![Scikit-Learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
 
 ---
 
-### 📂 Portfólio de Projetos
-
----
-
-## 🤖 Inteligência Artificial & Engenharia de Prompt
-
-| Projeto | Resumo Técnico | Acesso Direto |
-| :--- | :--- | :--- |
-| SM1 - Corrida do Prompt | Engenharia de prompt com múltiplas iterações e otimização de respostas em LLMs | [Acessar](./projeto-corrida-do-prompt/) |
-| SM2 - Laboratório de Classificação Visual | Classificação de imagens usando visão computacional e IA | [Acessar](./projeto-laboratorio-classificacao-visual/) |
-| SM3 - Batalha de Modelos (XML) | Comparação de modelos de IA e estruturação de prompts em XML | [Acessar](./projeto-batalha-de-modelos-engenharia-prompt-xml/) |
-| SM4 - Engenharia Reversa | Reconstrução de prompts a partir de saídas geradas por modelos | [Acessar](./projeto-engenharia-reversa/) |
-| SM5 - MVP | Desenvolvimento de produto mínimo viável com foco em validação de ideia | [Acessar](./projeto-mvp-clone-ao-produto-minimo-viavel/) |
-| SM6 - Bubble + IA | Criação de solução low-code integrada com inteligência artificial | [Acessar](./projeto-engenharia-software-ia-bubble/) |
-| SM7 - Videoconferência IA | Aplicação de videoconferência com integração de IA (Manus + Jitsi) | [Acessar](./projeto-app-videoconferencia-manus-ai-jitsi/) |
-| SM8 - Música com IA | Geração de composição musical assistida por inteligência artificial | [Acessar](./projeto-musica-ia/) |
----
-
-## ☕ Java
-
-| Projeto | Descrição | Link |
-| :--- | :--- | :---: |
-| **JavaJogoGuerreiro** | Jogo com lógica de combate e atributos | [Ver Projeto](https://github.com/thaisnovaess/JavaJogoGuerreiro) |
-| **DependenciaJava-SENAI** | Exercícios de dependência e prática Java | [Ver Projeto](https://github.com/thaisnovaess/DependenciaJava-SENAI) |
-| **JavaContaBancaria** | Simulação de sistema bancário | [Ver Projeto](https://github.com/thaisnovaess/JavaContaBancaria) |
-| **JogoDaMemoria** | Jogo da memória em Java | [Ver Projeto](https://github.com/thaisnovaess/JogoDaMemoria) |
-
----
-
-## 🐍 Python
-
-| Projeto | Descrição | Link |
-| :--- | :--- | :---: |
-| **Python** | Estudos e fundamentos da linguagem Python | [Ver Projeto](https://github.com/thaisnovaess/Python) |
-
----
-
-## 🌐 JavaScript
-
-| Projeto | Descrição | Link |
-| :--- | :--- | :---: |
-| **Jogo_NumeroSecreto** | Jogo de adivinhação em HTML/JS | [Ver Projeto](https://github.com/thaisnovaess/Jogo_NumeroSecreto) |
-
 ## 📁 Estrutura do Repositório
 
-Este portfólio está organizado em formato de monorepo, onde cada projeto possui sua própria pasta independente.
-
-### Estrutura:
-
-- projeto-corrida-do-prompt/
-- projeto-laboratorio-classificacao-visual/
-- projeto-batalha-de-modelos-engenharia-prompt-xml/
-- projeto-engenharia-reversa/
-- projeto-mvp-clone-ao-produto-minimo-viavel/
-- projeto-engenharia-software-ia-bubble/
-- projeto-app-videoconferencia-manus-ai-jitsi/
-- projeto-musica-ia/
-
-Cada pasta contém:
-- Código ou artefatos do projeto
-- Documentação técnica (README interno)
-- Recursos complementares (imagens, testes, resultados)
-
-
+```bash
+portfolio-thais-novaes-rodrigues-de-lima/
+│
+├── projeto-corrida-do-prompt/
+├── projeto-laboratorio-classificacao-visual/
+├── projeto-batalha-de-modelos-engenharia-prompt-xml/
+├── projeto-engenharia-reversa/
+├── projeto-mvp-clone-ao-produto-minimo-viavel/
+├── projeto-engenharia-software-ia-bubble/
+├── projeto-app-videoconferencia-manus-ai-jitsi/
+├── projeto-musica-ia/
+└── README.md
