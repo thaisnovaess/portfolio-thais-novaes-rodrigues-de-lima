@@ -1,3 +1,5 @@
+SM7 - Desenvolvimento de App de Videoconferência com Manus AI e Jitsi  
+
 💪 FitCall - Treino ao Vivo com Videochamada Integrada
 
 Transformando treinos remotos em experiências profissionais e interativas
