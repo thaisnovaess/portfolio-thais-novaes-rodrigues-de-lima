@@ -81,4 +81,24 @@ Atualmente cursando o **2º semestre de Ciência da Computação** na **UNICID**
 | :--- | :--- | :---: |
 | **Jogo_NumeroSecreto** | Jogo de adivinhação em HTML/JS | [Ver Projeto](https://github.com/thaisnovaess/Jogo_NumeroSecreto) |
 
+## 📁 Estrutura do Repositório
+
+Este portfólio está organizado em formato de monorepo, onde cada projeto possui sua própria pasta independente.
+
+### Estrutura:
+
+- projeto-corrida-do-prompt/
+- projeto-laboratorio-classificacao-visual/
+- projeto-batalha-de-modelos-engenharia-prompt-xml/
+- projeto-engenharia-reversa/
+- projeto-mvp-clone-ao-produto-minimo-viavel/
+- projeto-engenharia-software-ia-bubble/
+- projeto-app-videoconferencia-manus-ai-jitsi/
+- projeto-musica-ia/
+
+Cada pasta contém:
+- Código ou artefatos do projeto
+- Documentação técnica (README interno)
+- Recursos complementares (imagens, testes, resultados)
+
 
