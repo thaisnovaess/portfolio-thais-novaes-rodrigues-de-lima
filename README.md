@@ -1,3 +1,4 @@
+
 # Thais Novaes Rodrigues de Lima
 > Estudante de Ciência da Computação
 
@@ -13,11 +14,13 @@
 
 ## 👨‍💻 Sobre
 
-Estudante de **Ciência da Computação (2º semestre - UNICID)** com foco em **Desenvolvimento de Software e Inteligência Artificial**.
+Estudante de **Ciência da Computação (UNICID)** com foco em **Desenvolvimento de Software e Inteligência Artificial**.
 
-- Linguagens: Java, Python, JavaScript, HTML, CSS  
-- Tecnologias: Power BI, OpenCV, MediaPipe, AWS, Google Cloud  
-- Experiência: Monitoria de TI e Iniciação Científica em LIBRAS com visão computacional + estágio na ESPM  
+Experiência prática em:
+- Engenharia de Software
+- Machine Learning
+- Visão Computacional
+- Desenvolvimento de aplicações acadêmicas
 
 ---
 
