@@ -44,16 +44,16 @@ Atualmente cursando o **2º semestre de Ciência da Computação** na **UNICID**
 
 ## 🤖 Inteligência Artificial & Engenharia de Prompt
 
-| Projeto | Descrição | Link |
-| :--- | :--- | :---: |
-| **SM1 - A Corrida do Prompt** | Engenharia de prompt com otimização de respostas em múltiplas iterações | [Ver Projeto](./projeto-corrida-do-prompt/) |
-| **SM2 - Laboratório de Classificação Visual** | Classificação de imagens com visão computacional | [Ver Projeto](./projeto-laboratorio-classificacao-visual/) |
-| **SM3 - Batalha de Modelos & Engenharia de Prompt (XML)** | Comparação de modelos e estruturação de prompts em XML | [Ver Projeto](./projeto-batalha-de-modelos-engenharia-prompt-xml/) |
-| **SM4 - Engenharia Reversa** | Reconstrução de prompts a partir de outputs gerados | [Ver Projeto](./projeto-engenharia-reversa/) |
-| **SM5 - MVP** | Desenvolvimento de produto mínimo viável funcional | [Ver Projeto](./projeto-mvp-clone-ao-produto-minimo-viavel/) |
-| **SM6 - Bubble + IA** | Criação de soluções low-code com IA | [Ver Projeto](./projeto-engenharia-software-ia-bubble/) |
-| **SM7 - Videoconferência IA** | App com Manus AI e Jitsi | [Ver Projeto](./projeto-app-videoconferencia-manus-ai-jitsi/) |
-| **SM8 - Música com IA** | Geração musical com inteligência artificial | [Ver Projeto](./projeto-musica-ia/) |
+| Projeto | Resumo Técnico | Acesso Direto |
+| :--- | :--- | :--- |
+| SM1 - Corrida do Prompt | Engenharia de prompt com múltiplas iterações e otimização de respostas em LLMs | [Acessar](./projeto-corrida-do-prompt/) |
+| SM2 - Laboratório de Classificação Visual | Classificação de imagens usando visão computacional e IA | [Acessar](./projeto-laboratorio-classificacao-visual/) |
+| SM3 - Batalha de Modelos (XML) | Comparação de modelos de IA e estruturação de prompts em XML | [Acessar](./projeto-batalha-de-modelos-engenharia-prompt-xml/) |
+| SM4 - Engenharia Reversa | Reconstrução de prompts a partir de saídas geradas por modelos | [Acessar](./projeto-engenharia-reversa/) |
+| SM5 - MVP | Desenvolvimento de produto mínimo viável com foco em validação de ideia | [Acessar](./projeto-mvp-clone-ao-produto-minimo-viavel/) |
+| SM6 - Bubble + IA | Criação de solução low-code integrada com inteligência artificial | [Acessar](./projeto-engenharia-software-ia-bubble/) |
+| SM7 - Videoconferência IA | Aplicação de videoconferência com integração de IA (Manus + Jitsi) | [Acessar](./projeto-app-videoconferencia-manus-ai-jitsi/) |
+| SM8 - Música com IA | Geração de composição musical assistida por inteligência artificial | [Acessar](./projeto-musica-ia/) |
 ---
 
 ## ☕ Java
