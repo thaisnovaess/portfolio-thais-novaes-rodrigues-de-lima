@@ -13,12 +13,11 @@
 
 ## 👨‍💻 Sobre
 
-Atualmente cursando o **2º semestre de Ciência da Computação** na **UNICID**. Foco em **Desenvolvimento de Software e Inteligência Artificial**, com experiência prática em projetos acadêmicos e de pesquisa.
+Estudante de **Ciência da Computação (2º semestre - UNICID)** com foco em **Desenvolvimento de Software e Inteligência Artificial**.
 
-- **Linguagens:** Java, Python, JavaScript, HTML, CSS  
-- **Tecnologias:** Power BI, OpenCV, MediaPipe, AWS, Google Cloud  
-- **Soft Skills:** Trabalho em equipe, comunicação assertiva, pensamento crítico  
-- **Experiência:** Monitoria de TI e Iniciação Científica com reconhecimento de gestos em LIBRAS usando visão computacional e machine learning. Estágio na área de tecnologia da ESPM.
+- Linguagens: Java, Python, JavaScript, HTML, CSS  
+- Tecnologias: Power BI, OpenCV, MediaPipe, AWS, Google Cloud  
+- Experiência: Monitoria de TI e Iniciação Científica em LIBRAS com visão computacional + estágio na ESPM  
 
 ---
 
